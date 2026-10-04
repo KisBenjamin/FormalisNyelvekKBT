@@ -1,0 +1,13 @@
+# ninja log v6
+11	3650	8128477613028885	CMakeFiles/project.dir/problems/sum.cpp.obj	f16c0b9314097b66
+23	3951	8128480223358770	CMakeFiles/project.dir/problems/dfa.cpp.obj	a5e1a37d2e3e8273
+14	4303	8128480223260392	CMakeFiles/project.dir/main.cpp.obj	b3cc080c2ac98cae
+4303	4675	8128480266144756	project.exe	38fb1eb970b7507b
+4	4097	8128484301993215	CMakeFiles/project.dir/main.cpp.obj	b3cc080c2ac98cae
+4097	4409	8128484342920197	project.exe	38fb1eb970b7507b
+4	4088	8128484682912472	CMakeFiles/project.dir/main.cpp.obj	b3cc080c2ac98cae
+4088	4420	8128484723753595	project.exe	38fb1eb970b7507b
+8	3743	8128486952829947	CMakeFiles/project.dir/problems/sum.cpp.obj	f16c0b9314097b66
+12	3953	8128486952862815	CMakeFiles/project.dir/problems/dfa.cpp.obj	a5e1a37d2e3e8273
+4	4300	8128486952777106	CMakeFiles/project.dir/main.cpp.obj	b3cc080c2ac98cae
+4300	4617	8128486995734383	project.exe	38fb1eb970b7507b
