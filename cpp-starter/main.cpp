@@ -6,6 +6,8 @@
 
 #include "problems/dfa.h"
 #include "problems/sum.hpp"
+#include "problems/det.h"
+
 
 using namespace std;
 
@@ -14,6 +16,7 @@ int runProblem(int argc, char* argv[]) {
     vector<Problem *> problems;
     problems.push_back(new SumProblem());
     problems.push_back(new DFA());
+    problems.push_back(new Determinizalas());
 
     cxxopts::Options options("project", "Run the specific problem");
 
