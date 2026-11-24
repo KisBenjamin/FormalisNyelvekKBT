@@ -8,6 +8,7 @@
 #include "problems/sum.hpp"
 #include "problems/det.h"
 #include "problems/mini.h"
+#include "problems/rgx.h"
 
 
 using namespace std;
@@ -19,6 +20,7 @@ int runProblem(int argc, char* argv[]) {
     problems.push_back(new DFA());
     problems.push_back(new Determinizalas());
     problems.push_back(new Minimalizalas());
+    problems.push_back(new RegexProblem());
 
     cxxopts::Options options("project", "Run the specific problem");
 

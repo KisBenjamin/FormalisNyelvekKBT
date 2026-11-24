@@ -1,16 +1,7 @@
-q0 q1 q2 q3 q4 q5
-0 1
-q0
-q2
-q0 0 q1
-q0 1 q4
-q1 0 q4
-q1 1 q2
-q2 0 q0
-q2 1 q2
-q3 0 q5
-q3 1 q4
-q4 0 q4
-q4 1 q3
-q5 0 q4
-q5 1 q2
+10-15 10:18:51.100   221   221 I lowmemorykiller: Killing 'com.example.app' (1234)
+10-15 10:18:51.254   601   601 E InputManager-JNI:     at java.util.HashMap.putMapEntries(HashMap.java:500)
+10-15 10:19:51.300   601   605 E AndroidRuntime:     at com.app.MainActivity.onCreate(MainActivity.java:42)
+10-15 10:20:10.450   700   700 W PackageManager: Failed to parse package at PackageParser.java:120
+10-15 10:21:05.500   800   801 D ExoPlayerImpl: Init ExoPlayer 2.15.0 on Thread pool
+10-16 11:00:51.600   601   601 E InputManager-JNI:     at java.util.HashMap.put(HashMap.java:510)
+10-16 11:05:12.700   900   901 I ThreadMonitor: Everything is running fine
